@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @nitin734-bhise
-- 👀 I’m interested in ..free and paid. intership and do woek
-- 🌱 I’m currently learning ...2nd year information technology
-- 💞️ I’m looking to collaborate on ...any company to experience
-- 📫 How to reach me ...not perfect
+🔹 Professional & Clear
 
-<!---
-nitin734-bhise/nitin734-bhise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"Showcasing my journey as a Data Analyst — from raw data to actionable insights."
+
+"Hands-on projects in Python, SQL, Excel, and Power BI | Data-driven decisions start here."
+
+"Transforming data into impact – internship and personal analytics projects."
+
+
+
+---
+
+🔹 Skill-Focused
+
+"Data Analysis | SQL | Python | Tableau | Excel – Real-world applications and insights."
+
+"Analyzing data. Visualizing stories. Driving results."
+
+"My GitHub portfolio – practical applications of data analytics concepts."
+
+
+
+---
+
+🔹 Job-Oriented / Hiring Ready
+
+"Data Analyst in the making | Seeking opportunities | Projects that speak for skills."
+
+"Open to work – Data Analyst | Internship & Job-ready projects inside."
+
+"Curious mind. Analytical thinking. Ready for the next opportunity."
+
+
+
+---
+
+🔹 Creative & Impactful
+
+"Because every dataset has a story. Here's how I tell it."
+
+"Numbers talk — I listen and translate."
+
+"Turning chaos into clarity, one dataset at a time."
+
+
+---
